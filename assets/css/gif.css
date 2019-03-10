@@ -1,0 +1,12 @@
+#addCartoon,
+button {
+    background-color: #4aaaa5;
+    color: white;
+}
+body {
+    background-color: #DCDCDC;
+}
+
+#cartoonForm {
+    float: right;
+}
